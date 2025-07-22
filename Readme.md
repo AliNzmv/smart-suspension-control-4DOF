@@ -53,3 +53,8 @@ The goal is to improve **ride comfort**, **system stability**, and **adaptive re
 - TensorFlow or PyTorch
 - Matplotlib
 - Gym (for RL integration)
+
+🧑‍💻 Contributors
+Ali Nezamivand Chegeni
+Supervisor: Dr. Farzaneh Abdollahi
+Spring 1404 – Faculty of Electrical Engineering, UOT
